@@ -24,7 +24,7 @@ export default function ProjectsPage() {
           <div className="mb-8">
             <h2 className="text-2xl font-semibold">Project 3: JavaScript Quiz App</h2>
             <p className="text-md mt-2">
-              An interactive quiz application built using JavaScript, HTML, and CSS to test users' knowledge on various topics.
+              An interactive quiz application built using JavaScript, HTML, and CSS to test users knowledge on various topics.
             </p>
             
             
