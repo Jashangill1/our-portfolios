@@ -4,7 +4,7 @@ export default function ProjectsPage() {
       <div className="flex flex-col items-center justify-center text-center mt-16">
         <h1 className="text-4xl font-bold mb-4">Projects</h1>
         <p className="text-lg">
-          Here are some of the projects we've worked on.
+          Here are some of the projects we have worked on.
         </p>
         <div className="mt-8 w-full max-w-4xl">
           <div className="mb-8">
@@ -17,7 +17,7 @@ export default function ProjectsPage() {
           <div className="mb-8">
             <h2 className="text-2xl font-semibold">Project 2: HTML & CSS Portfolio</h2>
             <p className="text-md mt-2">
-              A personal portfolio website designed using HTML, CSS, and JavaScript to showcase my projects and skills.
+              A personal portfolio website designed using HTML CSS and JavaScript to showcase my projects and skills.
             </p>
             
           </div>
