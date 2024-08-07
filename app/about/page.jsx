@@ -13,7 +13,7 @@ export default function AboutPage() {
             <img src="/khush.jpeg" alt="Khushpreet Singh Gill" className="rounded-full w-24 h-24 mb-4 object-cover" />
             <h2 className="text-2xl font-semibold">Khushpreet Singh Gill</h2>
             <p className="text-lg">
-              Khushpreet is a full-stack developer with a strong background in React and Node.js. 
+              Khushpreet is a full-stack developer with a strong background in React and Node.js
               He has a knack for creating seamless user experiences and enjoys tackling complex problems.
             </p>
           </div>
